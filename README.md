@@ -27,7 +27,7 @@ THEN I find that the app uses Redux instead of the Context API
 
 
 ## Application
-Deployed application: 
+Deployed application: https://radiant-sierra-89721.herokuapp.com/
 
 ![redux](https://user-images.githubusercontent.com/88051358/150660769-cb5b98ef-903f-47ca-9014-8b478a678dba.PNG)
 
