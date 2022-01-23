@@ -21,9 +21,16 @@ WHEN I review the way the app dispatches actions
 THEN I find that the app uses Redux instead of the Context API
 ```
 ## How To Use:
-Login using ``` test@tester.com ``` and ``` 123456 ``` as the password.
+- Login using ``` test@tester.com ``` and ``` 123456 ``` as the password.
+- Add items to your cart and checkout.
+- Use ``` 4242 4242 4242 4242 ``` as the card number and make up the rest of the information.
+
 
 ## Application
+Deployed application: 
+
+![redux](https://user-images.githubusercontent.com/88051358/150660769-cb5b98ef-903f-47ca-9014-8b478a678dba.PNG)
+
 
 ## Contributors
 
