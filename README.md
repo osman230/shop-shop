@@ -1,11 +1,11 @@
 # Shop-Shop
 
-# Description
+## Description
 
-# How To Use:
+## How To Use:
 
-# Application
+## Application
 
-# Contributors
+## Contributors
 
 Aisha Osman
