@@ -21,6 +21,7 @@ WHEN I review the way the app dispatches actions
 THEN I find that the app uses Redux instead of the Context API
 ```
 ## How To Use:
+Login using ``` test@tester.com ``` and ``` 123456 ``` as the password.
 
 ## Application
 
